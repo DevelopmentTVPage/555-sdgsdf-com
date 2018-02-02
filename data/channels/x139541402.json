@@ -1,0 +1,19 @@
+{
+    "title": "Channel 1",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1517528494",
+    "date_modified": "1517528494",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "139541402",
+    "loginId": "1759130",
+    "entityType": "3",
+    "titleTextEncoded": "Channel-1",
+    "category": null,
+    "duration": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
